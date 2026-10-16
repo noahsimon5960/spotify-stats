@@ -1,0 +1,2 @@
+streamlit>=1.40,<2
+certifi>=2024.2.2
